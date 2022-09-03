@@ -1,7 +1,7 @@
 # DS (Discord Stalky)
 
 ## Monologue
-Okay okay Hear me out. I'm trying to make cv, i don't like doing simple projects like use api to create app, cuase... Idk most people are doing it better and i feel opreesed when looking at it. Soooo... Yeah Stalky bot anywy to the story
+Okay okay Hear me out. I'm trying to make cv, i don't like doing simple projects like use api to create app, cuase... Idk most people are doing it better and i feel opreesed when looking at it. Soooo... Yeah Stalky bot - anywy to the story
 
 I finished 1/2 of facebook bot, and my mind went... Hmmm Facebook is kinda dying - more people are sittin' on discord and are more active then on messenger.
 So what Wyvar Could do? Hop into Discord on a Browser.
