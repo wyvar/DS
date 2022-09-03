@@ -14,7 +14,7 @@ I say: NO SHUT UP, i want to be stealhy and not screaming - LOOK THIS SERVER HAS
 
 I jumped on the discord and the friend list - Yay everyone active stays in the active EASY PEASY GOOD BYE. 
 
-But let's be honest - most of your friends are on server and you never added them to friend list.
+But let's be honest - most of your friends are on server and you never added them to the friend list.
 SO LET'S SCRAP ACTIVITY FROM THE SERVER!!!
 
 We could, but we would need to scroll on some servers 10 min to get to the bottom to check certain person... That would or would not be active... Bad idea.. So let's stick to previous plan.
